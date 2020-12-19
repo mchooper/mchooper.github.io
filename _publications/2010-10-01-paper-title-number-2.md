@@ -1,7 +1,7 @@
 ---
 title: "Disaster Planning Across Scales: Lessons from Post-Earthquake Rubble Management in Oaxaca, Mexico"
 collection: publications
-permalink: /publication/2020-paper-title-number-2
+permalink: /publication/2020-disaster-planning-across-scales
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020
 venue: 'The Plan Journal'
