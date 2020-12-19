@@ -1,7 +1,7 @@
 ---
 title: "Prefabricating Marginality: Long-Term Housing Impacts of Displacement in Post-Disaster Montserrat"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-3
 date: 2020
 venue: 'Housing and Society'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
